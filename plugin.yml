@@ -1,0 +1,14 @@
+name: pvp
+main: me.nitrousspark.server.Core
+version: 1.0
+author: Fizz
+description: Runs everything you need for a kit server
+commands:
+        map:
+        killed:
+        killedby:
+        stats:
+        reset:
+        global:
+        team:
+        class:
